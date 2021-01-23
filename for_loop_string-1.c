@@ -6,7 +6,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
+int main(){
 
     int a, b;
     char* wordNums[10] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
